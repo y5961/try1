@@ -1,5 +1,5 @@
 const x =()=>{
-c=2
+c=5
 }
 const y =()=>{
    d=3 
