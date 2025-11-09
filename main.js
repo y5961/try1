@@ -6,6 +6,6 @@ const y =()=>{
    b=3
    d=4 
 
-   return 7
+   return '6'
 
 }
