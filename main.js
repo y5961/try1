@@ -6,3 +6,7 @@ const y =()=>{
    d=4 
    return '7'
 }
+const c=()=>{
+   console.log("hello world");
+   
+}
