@@ -4,4 +4,5 @@ const x =()=>{
 }
 const y =()=>{
    d=4 
+   return '7'
 }
