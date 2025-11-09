@@ -7,6 +7,6 @@ const y =()=>{
    return '7'
 }
 const c=()=>{
-   console.log("hello world");
+   console.log("what going?");
    
 }
