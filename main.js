@@ -13,6 +13,5 @@ const c=()=>{
 }
 
 const d=()=>{
-   console.log("what going?");
    return '6'
 }
